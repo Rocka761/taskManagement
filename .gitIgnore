@@ -2,6 +2,7 @@ node_modules
 logs/*
 build/*
 dist-server/*
+dist/*
 .vscode
 documents/*
 resources/*
