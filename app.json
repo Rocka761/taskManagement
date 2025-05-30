@@ -1,0 +1,11 @@
+[
+  {
+    "uid": "httpServer",
+    "append": true,
+    "watch": false,
+    "script": "dist/express.js",
+    "sourceDir": "D:/learnings/Node/backendFullstack",
+    "logFile": "D:/learnings/Node/backendFullstack/logs/expressapp.log",
+    "errFile": "D:/learnings/Node/backendFullstack/logs/error-expressapp.log"
+  }
+]
